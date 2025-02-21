@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## Run the Application
 
-- if You are the running frist time to task the time 
+- If you are running it for the first time, it may take some time to set up.
 
 ```sh
 python app.py

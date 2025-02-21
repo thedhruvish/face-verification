@@ -1,4 +1,5 @@
 static\*
 react
 .venv
+venv
 models
