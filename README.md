@@ -17,7 +17,6 @@ Make sure you have the following installed on your system:
 #### Clone the Repository
 
 ```sh
-# Replace with your actual repository URL
 git clone https://github.com/thedhruvish/face-verification.git
 cd face-verification
 ```
