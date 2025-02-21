@@ -60,6 +60,8 @@ pip install -r requirements.txt
 
 ## Run the Application
 
+- if You are the running frist time to task the time 
+
 ```sh
 python app.py
 ```
